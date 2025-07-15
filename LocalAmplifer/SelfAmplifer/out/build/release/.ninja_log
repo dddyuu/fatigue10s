@@ -1,0 +1,21 @@
+# ninja log v6
+9	513	7694513800552669	CMakeFiles/Local32Amplifer_autogen	15318b9943e5764d
+9	513	7694513800552669	Local32Amplifer_autogen/mocs_compilation.cpp	15318b9943e5764d
+9	513	7694513800552669	Local32Amplifer_autogen/include/src/ui_connectwidget.h	15318b9943e5764d
+9	513	7694513800552669	Local32Amplifer_autogen/include/src/Communication/ui_tcpconnectwidget.h	15318b9943e5764d
+9	513	7694513800552669	D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/CMakeFiles/Local32Amplifer_autogen	15318b9943e5764d
+9	513	7694513800552669	D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/Local32Amplifer_autogen/mocs_compilation.cpp	15318b9943e5764d
+9	513	7694513800552669	D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/Local32Amplifer_autogen/include/src/ui_connectwidget.h	15318b9943e5764d
+9	513	7694513800552669	D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/Local32Amplifer_autogen/include/src/Communication/ui_tcpconnectwidget.h	15318b9943e5764d
+552	1895	7694513805985955	CMakeFiles/Local32Amplifer.dir/src/Protocols/protocolsa.cpp.obj	5f241755ff721d9f
+525	1961	7694513805725964	CMakeFiles/Local32Amplifer.dir/src/eegdata.cpp.obj	44689b3d46b64f57
+518	2093	7694513805646414	CMakeFiles/Local32Amplifer.dir/src/communicationmanage.cpp.obj	839a576665a7a089
+521	2225	7694513805685962	CMakeFiles/Local32Amplifer.dir/src/connectwidget.cpp.obj	50d367386990dedf
+533	2306	7694513805805961	CMakeFiles/Local32Amplifer.dir/src/parse.cpp.obj	e4b2a545d6858632
+542	2317	7694513805885955	CMakeFiles/Local32Amplifer.dir/src/Communication/tcpcommunication.cpp.obj	5131c678ba90bde9
+547	2374	7694513805935971	CMakeFiles/Local32Amplifer.dir/src/Communication/tcpconnectwidget.cpp.obj	794d567d5e426ca
+537	2420	7694513805845978	CMakeFiles/Local32Amplifer.dir/src/selfamplifer.cpp.obj	2faa783ba7424389
+514	2441	7694513805605983	CMakeFiles/Local32Amplifer.dir/Local32Amplifer_autogen/mocs_compilation.cpp.obj	41b74b0e9d7b47fd
+529	3725	7694513805755968	CMakeFiles/Local32Amplifer.dir/src/matread.cpp.obj	4de6799c1a5687e4
+3726	3969	7694513839934394	Local32Amplifer.dll	7042953f7aa4461f
+3726	3969	7694513839934394	Local32Amplifer.lib	7042953f7aa4461f

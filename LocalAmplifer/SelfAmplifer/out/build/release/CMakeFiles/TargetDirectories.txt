@@ -1,0 +1,4 @@
+D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/CMakeFiles/Local32Amplifer.dir
+D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/CMakeFiles/edit_cache.dir
+D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/CMakeFiles/rebuild_cache.dir
+D:/Qt_Projects/fatigue_merge/LocalAmplifer/SelfAmplifer/out/build/release/CMakeFiles/Local32Amplifer_autogen.dir
