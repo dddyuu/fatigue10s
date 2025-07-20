@@ -44,7 +44,7 @@ void FileStorage::append(QList<QList<double> > data)
     // qDebug()<<"appendLabel"<<start_flag<<" "<<pause_flag;
     if (start_flag && !pause_flag)
     {
-        //amplifer_data.append(data);
+        amplifer_data.append(data);
         dataReady = true;
         checkReady();
         if (amplifer_data.bufferFull())
