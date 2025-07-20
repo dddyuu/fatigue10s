@@ -25,8 +25,8 @@ target_compile_definitions(Calculate PRIVATE CALCULATE_LIBRARY)
 target_include_directories(Calculate PUBLIC "src" )
 #target_link_libraries(Calculate onnxruntime::onnxruntime)
 
-target_include_directories(Calculate PUBLIC "E:/learn/fatigue\\fatigue_merge10s\\onnxruntime1_9\\include")
-target_link_libraries(Calculate PUBLIC "E:\\learn\\fatigue\\fatigue_merge10s\\onnxruntime1_9\\lib\\onnxruntime.lib")
+target_include_directories(Calculate PUBLIC "C:/cognitivePlatform_need/onnxruntime/onnxruntime1_9/include")
+target_link_libraries(Calculate PUBLIC "C:/cognitivePlatform_need/onnxruntime/onnxruntime1_9/lib/onnxruntime.lib")
 
 
 #功能测试
